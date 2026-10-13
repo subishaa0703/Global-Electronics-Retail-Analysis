@@ -39,7 +39,7 @@ Explores geographical sales performance and compares customer and revenue distri
 - Seasonal trends: December recorded the highest monthly revenue in each year from 2016 to 2019.
 - Revenue trend: Revenue dropped significantly in 2020 compared with the preceding period.
 - Geographical performance: The United States ranked first in sales, followed by the United Kingdom.
-- **Category performance: Home Appliances ranked second from 2017 to 2019 but moved to fourth place in 2020.
+- Category performance: Home Appliances ranked second from 2017 to 2019 but moved to fourth place in 2020.
 - Business performance: Revenue, quantity sold, and profit nearly doubled from 2017 to 2018, while the profit margin remained relatively stable.
 
 # 💡 Conclusion
