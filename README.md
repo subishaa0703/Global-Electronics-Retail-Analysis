@@ -46,9 +46,3 @@ Explores geographical sales performance and compares customer and revenue distri
 
 The analysis highlights differences in product performance, geographical contribution, and sales trends over time. These findings demonstrate how SQL-based analysis and Power BI visualizations can help businesses monitor performance and identify areas for further investigation.
 
-# 📁 Repository Contents
-
-- `SQL/` — SQL queries used for data analysis.
-- `Dashboard/` — Power BI dashboard file and screenshots.
-- `README.md` — Project overview, objectives, and key findings.
-- `Insights.md` — Detailed business insights and recommendations, if included.
